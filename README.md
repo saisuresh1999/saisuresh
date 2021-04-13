@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on **Lecture Video Summarization**
 
-- 🌱 I’m currently learning **MERN Stack**
-
 - 💬 Ask me about **Machine Learning, Deep Learning, Android Development, etc.**
 
 - 📫 How to reach me **saisuresh1999@gmail.com**
